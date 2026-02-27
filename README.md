@@ -117,4 +117,4 @@ plt.show()
 <img width="788" height="769" alt="image" src="https://github.com/user-attachments/assets/7c26578e-0aa5-4b39-b58c-c5a164fa2f3c" />
 
 ### Result:
-Thus the program is successfully executed and verified.
+Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
